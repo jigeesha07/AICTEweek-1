@@ -1,4 +1,4 @@
-# AICTEweek-1
+watse management using CNN model to develop a CNN model to classify images pf plastic waste
  This project uses a CNN model to classify waste into categories like recyclable, organic, and hazardous from images, automating sorting to improve recycling efficiency and reduce environmental impact.
 To develop a CNN model to classify images of plastic waste
 
